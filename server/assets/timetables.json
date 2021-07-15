@@ -1,55 +1,91 @@
 [
   {
-    "skedPath": "e/semester/E-EIT-GS-Sem1.html",
+    "skedPath": "e/semester/E-EIT-GS-Sem1-alt.html",
     "label": "EIT",
     "faculty": "Elektrotechnik",
     "type": "graphical",
-    "id": "e_eit_gs_1_ss21",
+    "id": "e_eit_gs_alt_1_ss21",
     "semester": 1,
     "degree": "Bachelor"
   },
   {
-    "skedPath": "e/semester/E-WEIT-Sem1.html",
-    "label": "WEIT",
+    "skedPath": "e/semester/E-EIT-GS-Sem1-neu.html",
+    "label": "EIT",
     "faculty": "Elektrotechnik",
     "type": "graphical",
-    "id": "e_weit_1_ss21",
+    "id": "e_eit_gs_neu_1_ss21",
     "semester": 1,
     "degree": "Bachelor"
   },
   {
-    "skedPath": "e/semester/E-EIT-GS-Sem2.html",
-    "label": "EIT",
-    "faculty": "Elektrotechnik",
-    "type": "graphical",
-    "id": "e_eit_gs_2_ss21",
-    "semester": 2,
-    "degree": "Bachelor"
-  },
-  {
-    "skedPath": "e/semester/E-EITiP-GS-Sem2.html",
+    "skedPath": "e/semester/E-EITiP-GS-Sem1-alt.html",
     "label": "EITiP",
     "faculty": "Elektrotechnik",
     "type": "graphical",
-    "id": "e_eitip_gs_2_ss21",
-    "semester": 2,
+    "id": "e_eitip_gs_alt_1_ss21",
+    "semester": 1,
     "degree": "Bachelor"
   },
   {
-    "skedPath": "e/semester/E-WEIT-Sem2.html",
+    "skedPath": "e/semester/E-EITiP-GS-Sem1-neu.html",
+    "label": "EITiP",
+    "faculty": "Elektrotechnik",
+    "type": "graphical",
+    "id": "e_eitip_gs_neu_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "e/semester/E-WEIT-Sem1-alt.html",
     "label": "WEIT",
     "faculty": "Elektrotechnik",
     "type": "graphical",
-    "id": "e_weit_2_ss21",
+    "id": "e_weit_alt_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "e/semester/E-WEIT-Sem1-neu.html",
+    "label": "WEIT",
+    "faculty": "Elektrotechnik",
+    "type": "graphical",
+    "id": "e_weit_neu_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "e/semester/E-WEITiP-Sem1-alt.html",
+    "label": "WEITiP",
+    "faculty": "Elektrotechnik",
+    "type": "graphical",
+    "id": "e_weitip_alt_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "e/semester/E-WEITiP-Sem1-neu.html",
+    "label": "WEITiP",
+    "faculty": "Elektrotechnik",
+    "type": "graphical",
+    "id": "e_weitip_neu_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "e/semester/E-EIT(iP)-GS-Sem2.html",
+    "label": "EIT(iP)",
+    "faculty": "Elektrotechnik",
+    "type": "graphical",
+    "id": "e_eit_ip_gs_2_ss21",
     "semester": 2,
     "degree": "Bachelor"
   },
   {
-    "skedPath": "e/semester/E-WEITiP-Sem2.html",
-    "label": "WEITiP",
+    "skedPath": "e/semester/E-WEIT(iP)-Sem2.html",
+    "label": "WEIT(iP)",
     "faculty": "Elektrotechnik",
     "type": "graphical",
-    "id": "e_weitip_2_ss21",
+    "id": "e_weit_ip_2_ss21",
     "semester": 2,
     "degree": "Bachelor"
   },
@@ -177,6 +213,15 @@
     "type": "graphical",
     "id": "e_weit_ip_6_ss21",
     "semester": 6,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "e/semester/E-IST.html",
+    "label": "IST",
+    "faculty": "Elektrotechnik",
+    "type": "graphical",
+    "id": "e_ist_ss21",
+    "semester": "Sonstige",
     "degree": "Bachelor"
   },
   {
@@ -486,6 +531,24 @@
     "degree": "Bachelor"
   },
   {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-MA%20MEI%201.%20Sem..csv",
+    "label": "VFH-MA MEI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_ma_mei_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-B.Sc.%20WI%201.%20Sem..csv",
+    "label": "WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_wi_1_ss21",
+    "semester": 1,
+    "degree": "Bachelor"
+  },
+  {
     "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-B.Sc.%20CE%202.%20Sem.%20(PO18).csv",
     "label": "CE (PO18)",
     "faculty": "Informatik",
@@ -536,6 +599,15 @@
     "faculty": "Informatik",
     "type": "csv",
     "id": "i_sye_po18_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-MA%20MEI%202.%20Sem..csv",
+    "label": "VFH-MA MEI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_ma_mei_2_ss21",
     "semester": 2,
     "degree": "Bachelor"
   },
@@ -612,6 +684,24 @@
     "degree": "Bachelor"
   },
   {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-MA%20MEI%203.%20Sem..csv",
+    "label": "VFH-MA MEI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_ma_mei_3_ss21",
+    "semester": 3,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-B.Sc.%20WI%203.%20Sem..csv",
+    "label": "WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_wi_3_ss21",
+    "semester": 3,
+    "degree": "Bachelor"
+  },
+  {
     "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-B.Sc.%20CE%204.%20Sem.%20(PO18).csv",
     "label": "CE (PO18)",
     "faculty": "Informatik",
@@ -662,6 +752,15 @@
     "faculty": "Informatik",
     "type": "csv",
     "id": "i_sye_po18_4_ss21",
+    "semester": 4,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-MA%20MEI%204.%20Sem..csv",
+    "label": "VFH-MA MEI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_ma_mei_4_ss21",
     "semester": 4,
     "degree": "Bachelor"
   },
@@ -756,6 +855,15 @@
     "degree": "Bachelor"
   },
   {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-B.Sc.%20WI%205.%20Sem..csv",
+    "label": "WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_wi_5_ss21",
+    "semester": 5,
+    "degree": "Bachelor"
+  },
+  {
     "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-MI%206.%20Sem..csv",
     "label": "VFH-MI",
     "faculty": "Informatik",
@@ -770,6 +878,15 @@
     "faculty": "Informatik",
     "type": "csv",
     "id": "i_vfh_wi_6_ss21",
+    "semester": 6,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-B.Sc.%20WI%206.%20Sem..csv",
+    "label": "WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_wi_6_ss21",
     "semester": 6,
     "degree": "Bachelor"
   },
@@ -801,6 +918,33 @@
     "degree": "Bachelor"
   },
   {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-M.Sc.%20WI%201.%20Sem..csv",
+    "label": "VFH-M.Sc. WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_m_wi_1_ss21",
+    "semester": 1,
+    "degree": "Master"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-M.Sc.%20WI%202.%20Sem..csv",
+    "label": "VFH-M.Sc. WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_m_wi_2_ss21",
+    "semester": 2,
+    "degree": "Master"
+  },
+  {
+    "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/I-VFH-M.Sc.%20WI%203.%20Sem..csv",
+    "label": "VFH-M.Sc. WI",
+    "faculty": "Informatik",
+    "type": "csv",
+    "id": "i_vfh_m_wi_3_ss21",
+    "semester": 3,
+    "degree": "Master"
+  },
+  {
     "skedPath": "i/Alle%20Daten%20im%20CSV-Format/Semester/M.Sc.%20Informatik%20(Alle%20Sem.+Schwerpunkte).csv",
     "label": "M.Sc. Informatik (Alle Sem.+Schwerpunkte)",
     "faculty": "Informatik",
@@ -811,7 +955,7 @@
   },
   {
     "skedPath": "r/studentenset/R-B-RFS_1_1. Sem..html",
-    "label": "Finanzmanagement und Steuern",
+    "label": "Semester (PO 2020)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_b_rfs_1_ss21",
@@ -820,7 +964,7 @@
   },
   {
     "skedPath": "r/studentenset/R-B-RPP_1_1. Sem..html",
-    "label": "Personalmanagement und -psychologie",
+    "label": "Semester (PO 2020)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_b_rpp_1_ss21",
@@ -829,7 +973,7 @@
   },
   {
     "skedPath": "r/studentenset/R-B-WR_1_1. Sem..html",
-    "label": "Wirtschaftsrecht",
+    "label": "Semester (PO 2020)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_b_wr_1_ss21",
@@ -837,8 +981,98 @@
     "degree": "Bachelor"
   },
   {
+    "skedPath": "r/studentenset/R-Z-2008-2011-Pruefungsplan_2_2. Sem..html",
+    "label": "PO 2007 - 2011",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2008_2011_pruefungsplan_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2014-RFS-Pruefungsplan (Plan B) alle_2_2. Sem..html",
+    "label": "PO 2014",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2014_rfs_pruefungsplan_plan_b_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2014-RPP-Pruefungsplan (Plan B) alle_2_2. Sem..html",
+    "label": "PO 2014",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2014_rpp_pruefungsplan_plan_b_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2014-WR-Pruefungsplan (Plan B) alle_2_2. Sem..html",
+    "label": "PO 2014",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2014_wr_pruefungsplan_plan_b_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2008-2011-Pruefungsplan_2_2. Sem..html",
+    "label": "PO 2014/15",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2008_2011_pruefungsplan_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2020-FTC-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2020",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2020_ftc_pruefungsplan_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2020-ILB-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2020",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2020_ilb_pruefungsplan_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2020-RFS-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2020",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2020_rfs_pruefungsplan_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2020-RPP-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2020",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2020_rpp_pruefungsplan_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-2020-WR-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2020",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2020_wr_pruefungsplan_alle_2_ss21",
+    "semester": 2,
+    "degree": "Bachelor"
+  },
+  {
     "skedPath": "r/studentenset/R-B-RFS_2_2. Sem..html",
-    "label": "Finanzmanagement und Steuern",
+    "label": "Semester (PO 2020)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_b_rfs_2_ss21",
@@ -847,7 +1081,7 @@
   },
   {
     "skedPath": "r/studentenset/R-B-RPP_2_2. Sem..html",
-    "label": "Personalmanagement und -psychologie",
+    "label": "Semester (PO 2020)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_b_rpp_2_ss21",
@@ -856,7 +1090,7 @@
   },
   {
     "skedPath": "r/studentenset/R-B-WR_2_2. Sem..html",
-    "label": "Wirtschaftsrecht",
+    "label": "Semester (PO 2020)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_b_wr_2_ss21",
@@ -864,17 +1098,8 @@
     "degree": "Bachelor"
   },
   {
-    "skedPath": "r/studentenset/R-Exkursionen_3_3. Sem..html",
-    "label": "Exkursionen (derzeit finden keine Exkursionen statt)",
-    "faculty": "Recht",
-    "type": "graphical",
-    "id": "r_exkursionen_3_ss21",
-    "semester": 3,
-    "degree": "Bachelor"
-  },
-  {
     "skedPath": "r/studentenset/R-RFS_3_3. Sem..html",
-    "label": "Finanzmanagement und Steuern",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_rfs_3_ss21",
@@ -883,7 +1108,7 @@
   },
   {
     "skedPath": "r/studentenset/R-RPP_3_3. Sem..html",
-    "label": "Personalmanagement und -psychologie",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_rpp_3_ss21",
@@ -892,7 +1117,7 @@
   },
   {
     "skedPath": "r/studentenset/R-WR_3_3. Sem..html",
-    "label": "Wirtschaftsrecht",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_wr_3_ss21",
@@ -900,17 +1125,8 @@
     "degree": "Bachelor"
   },
   {
-    "skedPath": "r/studentenset/Erstsemesterveranstaltungen_4_4. Sem..html",
-    "label": "Erstsemesterveranstaltungen",
-    "faculty": "Recht",
-    "type": "graphical",
-    "id": "r_erstsemesterveranstaltungen_4_ss21",
-    "semester": 4,
-    "degree": "Bachelor"
-  },
-  {
     "skedPath": "r/studentenset/R-RFS_4_4. Sem..html",
-    "label": "Finanzmanagement und Steuern",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_rfs_4_ss21",
@@ -919,7 +1135,7 @@
   },
   {
     "skedPath": "r/studentenset/R-RPP_4_4. Sem..html",
-    "label": "Personalmanagement und -psychologie",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_rpp_4_ss21",
@@ -928,7 +1144,7 @@
   },
   {
     "skedPath": "r/studentenset/R-WR_4_4. Sem..html",
-    "label": "Wirtschaftsrecht",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_wr_4_ss21",
@@ -937,7 +1153,7 @@
   },
   {
     "skedPath": "r/studentenset/R-RFS_6_6. Sem..html",
-    "label": "Finanzmanagement und Steuern",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_rfs_6_ss21",
@@ -946,7 +1162,7 @@
   },
   {
     "skedPath": "r/studentenset/R-RPP_6_6. Sem..html",
-    "label": "Personalmanagement und -psychologie",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_rpp_6_ss21",
@@ -955,7 +1171,7 @@
   },
   {
     "skedPath": "r/studentenset/R-WR_6_6. Sem..html",
-    "label": "Wirtschaftsrecht",
+    "label": "Semester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_wr_6_ss21",
@@ -963,17 +1179,35 @@
     "degree": "Bachelor"
   },
   {
-    "skedPath": "r/studentenset/R-Gremien und Sitzungen Aktuell.html",
-    "label": "Gremien und Sitzungen",
+    "skedPath": "r/studentenset/index.html",
+    "label": "Praxissemester (PO 2014)",
     "faculty": "Recht",
     "type": "graphical",
-    "id": "r_gremien_und_sitzungen_aktuell_ss21",
+    "id": "r_index_ss21",
     "semester": "Sonstige",
     "degree": "Bachelor"
   },
   {
+    "skedPath": "r/studentenset/index.html",
+    "label": "Semester (PO 2020) - nur im WS",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_index_ss21",
+    "semester": "Sonstige",
+    "degree": "Bachelor"
+  },
+  {
+    "skedPath": "r/studentenset/R-Z-WPF-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2014",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_wpf_pruefungsplan_alle_2_2_ss21",
+    "semester": "WPF",
+    "degree": "Bachelor"
+  },
+  {
     "skedPath": "r/studentenset/R-WPF-WF-Tutorien_4_4. Sem..html",
-    "label": "Wahlpflichtfächer SoSe 2021",
+    "label": "Wahlpflichtfächer und Tutorien",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_wpf_wf_tutorien_4_4_ss21",
@@ -981,8 +1215,17 @@
     "degree": "Bachelor"
   },
   {
+    "skedPath": "r/studentenset/R-Z-2020-RPP-M-Pruefungsplan alle_2_2. Sem..html",
+    "label": "PO 2020",
+    "faculty": "Recht",
+    "type": "graphical",
+    "id": "r_z_2020_rpp_m_pruefungsplan_alle_2_ss21",
+    "semester": 2,
+    "degree": "Master"
+  },
+  {
     "skedPath": "r/studentenset/R-M-FTC_2_2. Sem..html",
-    "label": "Finance, Tax and Company Law",
+    "label": "Semester (PO 2020) - nur im SoSe",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_m_ftc_2_ss21",
@@ -991,7 +1234,7 @@
   },
   {
     "skedPath": "r/studentenset/R-M-ILB_2_2. Sem..html",
-    "label": "International Law and Business",
+    "label": "Semester (PO 2020) - nur im SoSe",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_m_ilb_2_ss21",
@@ -1000,7 +1243,7 @@
   },
   {
     "skedPath": "r/studentenset/R-M-RPP_2_2. Sem..html",
-    "label": "Recht, Personalmangement und Psychologie",
+    "label": "Semester (PO 2020) - nur im SoSe",
     "faculty": "Recht",
     "type": "graphical",
     "id": "r_m_rpp_2_ss21",
